@@ -1,0 +1,27 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.10",
+    "webpack-dev-middleware": "=3.6.0",
+    "bulma": "^0.7.1",
+    "markdown-it-abbr": "^1.0.4",
+    "markdown-it-deflist": "^2.0.3",
+    "markdown-it-footnote": "^3.0.1",
+    "markdown-it-ins": "^2.0.0",
+    "markdown-it-mark": "^2.0.0",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.1.0",
+    "vue": "^2.5.17"
+  }
+}
